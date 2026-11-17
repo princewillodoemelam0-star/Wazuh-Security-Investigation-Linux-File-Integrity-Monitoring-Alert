@@ -1,0 +1,2 @@
+# Wazuh-Security-Investigation-Linux-File-Integrity-Monitoring-Alert
+Hands-on SOC investigation on Wazuh SIEM to analyze a Linux File Integrity Monitoring (FIM) alert. Investigated Rule ID 550 (Level 7), analyzed changes to the GRUB configuration file, examined file attributes and inode changes, and mapped the alert to MITRE ATT&amp;CK T1565.001 (Stored Data Manipulation). Includes investigation steps, finding
